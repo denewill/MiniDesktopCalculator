@@ -1,0 +1,2 @@
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\Task1Wix\bin\Debug\Task1Wix.msi
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\Task1Wix\bin\Debug\Task1Wix.wixpdb

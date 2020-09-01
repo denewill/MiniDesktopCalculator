@@ -1,0 +1,9 @@
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\bin\Debug\netstandard2.0\CalculatorforTask1.deps.json
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\bin\Debug\netstandard2.0\CalculatorforTask1.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\bin\Debug\netstandard2.0\CalculatorforTask1.pdb
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.csprojAssemblyReference.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.csproj.CoreCompileInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.AssemblyInfoInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.AssemblyInfo.cs
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\CalculatorforTask1\obj\Debug\netstandard2.0\CalculatorforTask1.pdb

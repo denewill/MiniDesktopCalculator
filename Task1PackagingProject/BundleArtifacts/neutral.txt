@@ -1,0 +1,2 @@
+MainPackage=F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\Task1PackagingProject\bin\AnyCPU\Debug\Task1PackagingProject_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\Task1PackagingProject\AppPackages\Task1PackagingProject_1.0.0.0_Debug_Test\Task1PackagingProject_1.0.0.0_AnyCPU_Debug.appxsym
