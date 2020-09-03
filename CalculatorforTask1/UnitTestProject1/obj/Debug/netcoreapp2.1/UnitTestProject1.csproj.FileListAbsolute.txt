@@ -1,0 +1,17 @@
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\CalculatorforTask1.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\bin\Debug\netcoreapp2.1\CalculatorforTask1.pdb
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\CalculatorforTask1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
